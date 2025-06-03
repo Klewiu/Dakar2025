@@ -1,0 +1,5 @@
+.splide, .splide__slide img {
+  width: 100%;
+  height: 440px; /* lub auto, ale do testu lepiej wymusić wysokość */
+  object-fit: cover; /* lub contain, w zależności od efektu */
+}
