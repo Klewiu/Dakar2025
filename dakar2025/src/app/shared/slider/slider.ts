@@ -1,4 +1,4 @@
-import { Component, AfterViewInit } from '@angular/core';
+import { AfterViewInit, Component, ElementRef, ViewChild } from '@angular/core';
 import Splide from '@splidejs/splide';
 
 @Component({
@@ -8,18 +8,21 @@ import Splide from '@splidejs/splide';
   styleUrls: ['./slider.css']
 })
 export class Slider implements AfterViewInit {
-  ngAfterViewInit() {
-    new Splide('.splide', {
-      type: 'loop',
-      perPage: 3,
-      padding: '2rem',
-      gap: '1rem',
-      breakpoints: {
-        768: {
-          perPage: 1,
-          padding: '1rem'
+  @ViewChild('splide') splideElem!: ElementRef;
+    ngAfterViewInit() {
+      new Splide('.splide', {
+        type: 'loop',
+        perPage: 2,
+        padding: '9rem',
+        gap: '0.2rem',
+        autoplay: true,       // automatyczne przewijanie
+        interval: 5000, 
+        breakpoints: {
+          768: {
+            perPage: 1,
+            padding: '0rem',
+          }
         }
-      }
-    }).mount();
+     }).mount();
   }
 }

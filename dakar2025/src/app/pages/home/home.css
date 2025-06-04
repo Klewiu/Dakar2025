@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.section1-bg {
+  background-color: #f8f9da;/* lub .png, .webp itd. */
+  background-size: cover;
+  background-position: center;
+}
+
+.section2-bg {
+  background-color: #212429; /* piaskowy kolor */
+  position: relative;
+  overflow: hidden;
+}
+
+.dakar-spirits-logo {
+    height: 120px;
+   
+}
+
+@media (max-width: 768px) {
+  .dakar-spirits-logo {
+    height: 75px;
+  }
+}
+.slider-shadow {
+  display: block; /* ważne, bo Angular komponenty domyślnie są inline */
+  box-shadow: 0 10px 20px rgb(73, 67, 14); /* cień w dół */
+  z-index: 1;
+  position: relative; /* żeby z-index działał */
+}
+
+.headline-text-1 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  }
+.headline-text-2 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: white;
+  }
+
+  .img-sekcja-1 {
+    height: 500px;
+  }
+
+  .card-headline-text{
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .card {
+  background: white; /* czarny z lekkim gradientem */
+  color: #000000d4;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+}
+
+.card h5 {
+  color: #3a2e38; /* złoty akcent na imię/nazwisko i tytuły */
+  font-weight: 600;
+}
+
+.card p {
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+.card img {
+  padding: 2px;
+  border-radius: 10px;
+}
+
+.text-section-2{
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .text-section-2{
+  font-size: 12px;
+  }
+}
