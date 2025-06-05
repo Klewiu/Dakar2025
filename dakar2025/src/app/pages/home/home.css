@@ -4,6 +4,13 @@ body {
   padding:0;
 }
 
+.navbar-shadow {
+  display: block; /* ważne, bo Angular komponenty domyślnie są inline */
+  box-shadow: 0 30px 80px rgba(216, 55, 15, 0.522); /* cień w dół */
+  z-index: 2;
+  position: relative; /* jeśli nie ma jeszcze ustawionej pozycji */
+}
+
 .section1-bg {
   background-color: #f8f9da; /* lub .png, .webp itd. */
   background-size: cover;
@@ -28,7 +35,14 @@ body {
 
 .slider-shadow {
   display: block; /* ważne, bo Angular komponenty domyślnie są inline */
-  box-shadow: 0 10px 20px rgb(73, 67, 14); /* cień w dół */
+  box-shadow: 0 10px 30px rgba(226, 179, 7, 0.675); /* cień w dół */
+  z-index: 1;
+  position: relative; /* żeby z-index działał */
+}
+
+.footer-shadow {
+  display: block; /* ważne, bo Angular komponenty domyślnie są inline */
+  box-shadow: 1px 60px 150px rgba(226, 179, 7, 0.675); /* cień w dół */
   z-index: 1;
   position: relative; /* żeby z-index działał */
 }
