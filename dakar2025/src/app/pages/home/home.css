@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
 
+body {
+  padding:0;
+}
 
 .section1-bg {
-  background-color: #f8f9da;/* lub .png, .webp itd. */
+  background-color: #f8f9da; /* lub .png, .webp itd. */
   background-size: cover;
   background-position: center;
 }
@@ -14,8 +17,7 @@
 }
 
 .dakar-spirits-logo {
-    height: 120px;
-   
+  height: 120px;
 }
 
 @media (max-width: 768px) {
@@ -23,6 +25,7 @@
     height: 75px;
   }
 }
+
 .slider-shadow {
   display: block; /* ważne, bo Angular komponenty domyślnie są inline */
   box-shadow: 0 10px 20px rgb(73, 67, 14); /* cień w dół */
@@ -35,32 +38,43 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  }
+}
+
 .headline-text-2 {
   font-family: "Red Hat Display", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
   color: white;
-  }
+}
 
-  .img-sekcja-1 {
-    height: 500px;
-  }
+.img-sekcja-1 {
+  max-height: 500px;
+  border-radius: 15px; /* zaokrąglenie obrazków w desktop */
+  object-fit: cover;
+}
 
-  .card-headline-text{
-    font-family: "Red Hat Display", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 30px;
-    font-weight: 300;
-    font-style: normal;
-  }
+.card-headline-text {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+}
 
-  .card {
+.headline-text {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.card {
   background: white; /* czarny z lekkim gradientem */
   color: #000000d4;
   border: none;
-  border-radius: 15px;
+  border-radius: 15px; /* zaokrąglenie kart w desktop */
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -82,15 +96,92 @@
 
 .card img {
   padding: 2px;
-  border-radius: 10px;
+  border-radius: 10px; /* zaokrąglenie obrazków w kartach w desktop */
+  object-fit: cover;
 }
 
-.text-section-2{
+.text-section-2 {
   font-size: 14px;
 }
 
 @media (max-width: 768px) {
-  .text-section-2{
-  font-size: 12px;
+  .text-section-2 {
+    font-size: 12px;
+  }
+
+  /* W mobilnej wersji: karty i obrazki bez zaokrągleń, szerokość karty 100% */
+  .card-sponsorzy {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    border-radius: 0 !important; /* brak zaokrągleń */
+  }
+
+  .card img {
+    border-radius: 0 !important; /* brak zaokrągleń obrazków w kartach */
+  }
+
+  .img-sekcja-1 {
+    border-radius: 0 !important; /* brak zaokrągleń obrazka sekcji 1 */
+  }
+
+  .card-sponsorzy {
+    border-radius: 0 !important; /* brak zaokrągleń karty sponsorów */
+  }
+
+  .sponsorzy-img {
+    border-radius: 0 !important; /* brak zaokrągleń zdjęć sponsorów */
   }
 }
+
+.sponsorzy-img {
+  max-height: 470px; /* lub np. 300px, w zależności od potrzeb */
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.card-sponsorzy {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  font-weight: 400;
+  border-radius: 15px;
+}
+
+.card-sponsorzy::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/assets/pustynia-bg_3.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.85; /* <-- przezroczystość tła */
+  z-index: -1; /* <-- pod tekstem */
+}
+
+@media (max-width: 768px) {
+  .event-image-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .event-image-wrapper img {
+    width: 100% !important;
+    height: auto;
+    display: block;
+    border-radius: 0 !important;
+  }
+}
+
+#kontakt a {
+  color: white;
+  text-decoration: none;
+}
+
+#kontakt a:hover {
+  text-decoration: underline;
+}
+

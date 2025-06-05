@@ -1,0 +1,9 @@
+.footer-bg{
+  background-color: #f8f9da;/* lub .png, .webp itd. */
+  background-size: cover;
+  background-position: center;
+}
+
+.footer-bg img{
+    height: 50px;
+}
