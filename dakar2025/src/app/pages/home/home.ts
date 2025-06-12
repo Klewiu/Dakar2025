@@ -20,18 +20,23 @@ export class HomeComoponent implements OnInit, AfterViewInit { // <-- literówka
   ngOnInit(): void {
     AOS.init({
       duration: 1500,
-      once: false, // animacje tylko raz przy wejściu
+      once: false,
     });
   }
 
-  ngAfterViewInit(): void {
-    this.route.fragment.subscribe(fragment => {
-      if (fragment) {
+ngAfterViewInit(): void {
+  this.route.fragment.subscribe(fragment => {
+    if (fragment) {
+      setTimeout(() => {
         const el = document.getElementById(fragment);
         if (el) {
-          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          const yOffset = -120; // przesunięcie w górę o 100px
+          const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset;
+
+          window.scrollTo({ top: y, behavior: 'smooth' });
         }
-      }
-    });
-  }
+      }, 100);
+    }
+  });
+}
 }
