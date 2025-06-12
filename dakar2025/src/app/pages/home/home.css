@@ -199,3 +199,9 @@ body {
   text-decoration: underline;
 }
 
+@media (max-width: 1400px) { /* odpowiada bootstrapowej granicy lg */
+  .hide-in-small {
+    display: none !important;
+  }
+}
+
