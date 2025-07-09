@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+
 
 @Component({
   selector: 'app-root',
@@ -7,6 +8,10 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
-export class App {
-  protected title = 'dakar2025';
+export class App implements OnInit{
+  protected title = 'WMS Dakar 2026';
+
+  ngOnInit() {
+  window.scrollTo(0, 0);
+}
 }
