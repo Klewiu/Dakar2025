@@ -4,6 +4,12 @@
   "newProjectRoot": "projects",
   "projects": {
     "dakar2025": {
+      "i18n":{
+        "sourceLocale": "pl",
+        "locales": {
+          "en":"src/locales/messages.en.xlf"
+          }
+        },
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -14,8 +20,10 @@
           "builder": "@angular/build:application",
           "options": {
             "browser": "src/main.ts",
+            "localize":true,
             "polyfills": [
-              "zone.js"
+              "zone.js",
+              "@angular/localize/init"
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
@@ -57,7 +65,11 @@
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
+            },
+            "en": {
+              "localize":["en"]
             }
+
           },
           "defaultConfiguration": "production"
         },
@@ -69,19 +81,31 @@
             },
             "development": {
               "buildTarget": "dakar2025:build:development"
+            },
+            "en":{
+              "buildTarget": "dakar2025:build:development,en"
             }
           },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
-          "builder": "@angular/build:extract-i18n"
+          "builder": "ng-extract-i18n-merge:ng-extract-i18n-merge",
+          "options": {
+            "buildTarget": "dakar2025:build",
+            "format": "xlf2",
+            "outputPath": "src/locales",
+            "targetFiles": [
+              "messages.en.xlf"
+            ]
+          }
         },
         "test": {
           "builder": "@angular/build:karma",
           "options": {
             "polyfills": [
               "zone.js",
-              "zone.js/testing"
+              "zone.js/testing",
+              "@angular/localize/init"
             ],
             "tsConfig": "tsconfig.spec.json",
             "assets": [

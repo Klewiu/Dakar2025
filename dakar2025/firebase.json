@@ -1,13 +1,24 @@
 {
   "hosting": {
-    "source": ".",
+    "public": "dist/dakar2025/browser/",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ],
-    "frameworksBackend": {
-      "region": "europe-west1"
-    }
+    "rewrites": [
+      {
+        "source": "/en/**",
+        "destination": "/en/index.html"
+      },
+      {
+        "source": "/pl/**",
+        "destination": "/pl/index.html"
+      },
+      {
+        "source": "**",
+        "destination": "/pl/index.html"
+      }
+    ]
   }
 }

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="pl" trgLang="pl">
+  <file id="ngi18n" original="ng.template">
+    <unit id="1160513056445270207">
+      <segment>
+        <source>PILOT</source>
+        <target>PILOT</target>
+      </segment>
+    </unit>
+    <unit id="1258452797657397048">
+      <segment>
+        <source> Kluczowe cechy Rajdu Dakar Classic:<ph id="0" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="1" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="2" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Pojazdy historyczne:</pc> Uczestniczyć mogą samochody i ciężarówki zbudowane przed rokiem 2000, często te same modele, które startowały w dawnych edycjach Rajdu Paryż-Dakar, takie jak Porsche 959, Porsche 924, Peugeot 205 T16 czy Toyota Land Cruiser. <ph id="3" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="4" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="5" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Rajd na regularność:</pc> Zamiast osiągać jak najszybsze czasy, załogi starają się utrzymać średnią prędkość wyznaczoną przez organizatorów. Każde odchylenie od tej prędkości skutkuje punktami karnymi, a zwycięża załoga z najmniejszą ich liczbą.<ph id="6" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="7" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="8" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Kategorie i klasyfikacje:</pc> Pojazdy są podzielone na różne grupy w zależności od roku produkcji i charakterystyki technicznej, co pozwala na bardziej sprawiedliwą rywalizację.<ph id="9" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="10" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="11" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Wzrost popularności:</pc> Od momentu debiutu, Dakar Classic zyskał dużą popularność wśród kibiców i uczestników. W edycji 2024 wzięło udział około 100 załóg, w tym również z Polski, co świadczy o rosnącym zainteresowaniu tą formą rywalizacji.<ph id="12" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="13" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/></source>
+        <target> Kluczowe cechy Rajdu Dakar Classic:<ph id="0" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="1" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="2" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Pojazdy historyczne:</pc> Uczestniczyć mogą samochody i ciężarówki zbudowane przed rokiem 2000, często te same modele, które startowały w dawnych edycjach Rajdu Paryż-Dakar, takie jak Porsche 959, Porsche 924, Peugeot 205 T16 czy Toyota Land Cruiser. <ph id="3" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="4" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="5" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Rajd na regularność:</pc> Zamiast osiągać jak najszybsze czasy, załogi starają się utrzymać średnią prędkość wyznaczoną przez organizatorów. Każde odchylenie od tej prędkości skutkuje punktami karnymi, a zwycięża załoga z najmniejszą ich liczbą.<ph id="6" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="7" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="8" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Kategorie i klasyfikacje:</pc> Pojazdy są podzielone na różne grupy w zależności od roku produkcji i charakterystyki technicznej, co pozwala na bardziej sprawiedliwą rywalizację.<ph id="9" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="10" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><pc id="11" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Wzrost popularności:</pc> Od momentu debiutu, Dakar Classic zyskał dużą popularność wśród kibiców i uczestników. W edycji 2024 wzięło udział około 100 załóg, w tym również z Polski, co świadczy o rosnącym zainteresowaniu tą formą rywalizacji.<ph id="12" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/><ph id="13" equiv="LINE_BREAK" type="fmt" disp="&lt;br&gt;"/></target>
+      </segment>
+    </unit>
+    <unit id="133609555921925335">
+      <segment>
+        <source>Dakar Classic to nie tylko sportowa rywalizacja, ale także podróż w czasie, która pozwala na ponowne przeżycie ducha dawnych edycji Rajdu Dakar. Dla wielu uczestników i fanów motoryzacji stanowi to wyjątkową okazję do zobaczenia w akcji legendarnych pojazdów i poczucia atmosfery historycznych rajdów. </source>
+        <target>Dakar Classic to nie tylko sportowa rywalizacja, ale także podróż w czasie, która pozwala na ponowne przeżycie ducha dawnych edycji Rajdu Dakar. Dla wielu uczestników i fanów motoryzacji stanowi to wyjątkową okazję do zobaczenia w akcji legendarnych pojazdów i poczucia atmosfery historycznych rajdów. </target>
+      </segment>
+    </unit>
+    <unit id="2333093052144171341">
+      <segment>
+        <source>DLA SPONSORÓW</source>
+        <target>DLA SPONSORÓW</target>
+      </segment>
+    </unit>
+    <unit id="2507768204948174719">
+      <segment>
+        <source><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Rajd Dakar Classic </pc>to specjalna kategoria w ramach legendarnego Rajdu Dakar, wprowadzona w 2021 roku. Została stworzona z myślą o pojazdach historycznych, które brały udział w oryginalnych edycjach rajdu, a także o entuzjastach klasycznej motoryzacji. W przeciwieństwie do głównej rywalizacji, gdzie liczy się przede wszystkim szybkość, Dakar Classic opiera się na zasadzie rajdu na regularność. </source>
+        <target><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Rajd Dakar Classic </pc>to specjalna kategoria w ramach legendarnego Rajdu Dakar, wprowadzona w 2021 roku. Została stworzona z myślą o pojazdach historycznych, które brały udział w oryginalnych edycjach rajdu, a także o entuzjastach klasycznej motoryzacji. W przeciwieństwie do głównej rywalizacji, gdzie liczy się przede wszystkim szybkość, Dakar Classic opiera się na zasadzie rajdu na regularność. </target>
+      </segment>
+    </unit>
+    <unit id="3146879691806581801">
+      <segment>
+        <source>Adam Walenda</source>
+        <target>Adam Walenda</target>
+      </segment>
+    </unit>
+    <unit id="3238159105881893351">
+      <segment>
+        <source><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Co oferujemy naszym partnerom?</pc></source>
+        <target><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Co oferujemy naszym partnerom?</pc></target>
+      </segment>
+    </unit>
+    <unit id="3317524451592221367">
+      <segment>
+        <source>EVENT</source>
+        <target>EVENT</target>
+      </segment>
+    </unit>
+    <unit id="3375701766678130438">
+      <segment>
+        <source> Masz pytania, chcesz nawiązać współpracę lub zostać naszym partnerem? Jesteśmy otwarci na różne formy współdziałania – zarówno jednorazowe, jak i długofalowe. </source>
+        <target> Masz pytania, chcesz nawiązać współpracę lub zostać naszym partnerem? Jesteśmy otwarci na różne formy współdziałania – zarówno jednorazowe, jak i długofalowe. </target>
+      </segment>
+    </unit>
+    <unit id="3526511374475876004">
+      <segment>
+        <source>KONTAKT</source>
+        <target>KONTAKT</target>
+      </segment>
+    </unit>
+    <unit id="3556135458859525217">
+      <segment>
+        <source><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-3-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/>Dzięki swojej pasji i zaangażowaniu Adam odgrywa istotną rolę w popularyzacji klasycznych samochodów oraz rajdowych modeli Porsche, przywracając ducha dawnych edycji legendarnego Rajdu Dakar. </source>
+        <target><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-3-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/>Dzięki swojej pasji i zaangażowaniu Adam odgrywa istotną rolę w popularyzacji klasycznych samochodów oraz rajdowych modeli Porsche, przywracając ducha dawnych edycji legendarnego Rajdu Dakar. </target>
+      </segment>
+    </unit>
+    <unit id="3739036893743209141">
+      <segment>
+        <source><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;"> Dołącz do WMS Dakar Team jako partner!</pc></source>
+        <target><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;"> Dołącz do WMS Dakar Team jako partner!</pc></target>
+      </segment>
+    </unit>
+    <unit id="3964509302900636105">
+      <segment>
+        <source><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-2-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/>W ciągu ostatnich pięciu lat zbudował kilka egzemplarzy modelu Porsche 924 przystosowanego do jazdy w terenie. Część z nich opuściła granice Polski – jedno z aut trafiło do nowego właściciela w Berlinie, kolejne pojechało do Hamburga, a jedno do znanego amerykańskiego reżysera i producenta filmowego, Cary’ego Fukunagi. Inspiracją do stworzenia modelu Porsche 924 Dakar był oczywiście legendarny rajd Dakar. Obecnie Adam kończy przygotowania rajdowego Porsche do udziału w Rajdzie Dakar w kategorii Classic, przeznaczonej dla pojazdów historycznych. </source>
+        <target><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-2-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/>W ciągu ostatnich pięciu lat zbudował kilka egzemplarzy modelu Porsche 924 przystosowanego do jazdy w terenie. Część z nich opuściła granice Polski – jedno z aut trafiło do nowego właściciela w Berlinie, kolejne pojechało do Hamburga, a jedno do znanego amerykańskiego reżysera i producenta filmowego, Cary’ego Fukunagi. Inspiracją do stworzenia modelu Porsche 924 Dakar był oczywiście legendarny rajd Dakar. Obecnie Adam kończy przygotowania rajdowego Porsche do udziału w Rajdzie Dakar w kategorii Classic, przeznaczonej dla pojazdów historycznych. </target>
+      </segment>
+    </unit>
+    <unit id="3998800686963798688">
+      <segment>
+        <source><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-1-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/><pc id="1" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Adam Walenda</pc> to polski przedsiębiorca i pasjonat motoryzacji. Na co dzień łączy swoją pasję i doświadczenie, prowadząc stację obsługi pojazdów Q Service Castrol Walenda. Jest także założycielem Walenda Motorsport, gdzie od lat modyfikuje i odbudowuje m.in. klasyczne modele Porsche, startując w wyścigach takich jak Classicauto Cup czy Race Cup. </source>
+        <target><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-1-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/><pc id="1" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Adam Walenda</pc> to polski przedsiębiorca i pasjonat motoryzacji. Na co dzień łączy swoją pasję i doświadczenie, prowadząc stację obsługi pojazdów Q Service Castrol Walenda. Jest także założycielem Walenda Motorsport, gdzie od lat modyfikuje i odbudowuje m.in. klasyczne modele Porsche, startując w wyścigach takich jak Classicauto Cup czy Race Cup. </target>
+      </segment>
+    </unit>
+    <unit id="4340501386015814057">
+      <segment>
+        <source>Główny twórca projektu oraz doświadczony kierowca.</source>
+        <target>Główny twórca projektu oraz doświadczony kierowca.</target>
+      </segment>
+    </unit>
+    <unit id="5020498925011513789">
+      <segment>
+        <source>KIEROWCA</source>
+        <target>KIEROWCA</target>
+      </segment>
+    </unit>
+    <unit id="5141427409927685856">
+      <segment>
+        <source>Inżynier i pasjonat klasycznych aut. Tym razem w roli pilota.</source>
+        <target>Inżynier i pasjonat klasycznych aut. Tym razem w roli pilota.</target>
+      </segment>
+    </unit>
+    <unit id="5360584901236669813">
+      <segment>
+        <source>Media i wsparcie teamu w terenie.</source>
+        <target>Media i wsparcie teamu w terenie.</target>
+      </segment>
+    </unit>
+    <unit id="6088791022342428865">
+      <segment>
+        <source>ZAŁOGA</source>
+        <target>ZAŁOGA</target>
+      </segment>
+    </unit>
+    <unit id="6099806436526892598">
+      <segment>
+        <source><pc id="0" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Eksponowanie logo firmy na samochodzie rajdowym, odzieży zespołu oraz materiałach promocyjnych,</pc><pc id="1" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Obecność w mediach społecznościowych i relacjach z przygotowań oraz samego rajdu,</pc><pc id="2" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Materiały foto/video do wykorzystania w kampaniach marketingowych,</pc><pc id="3" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Możliwość wspólnych wydarzeń promocyjnych z udziałem samochodu rajdowego,</pc><pc id="4" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Autentyczny storytelling oparty na realnej pasji i przygodzie,</pc><pc id="5" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Zaproszenia na wybrane etapy przygotowań lub wydarzenia medialne związane z projektem,</pc><pc id="6" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Dostęp do ekskluzywnych materiałów zza kulis i osobistych relacji z zespołu,</pc><pc id="7" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Możliwość wykorzystania rajdowego auta podczas firmowych eventów lub sesji zdjęciowych,</pc><pc id="8" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Budowanie wizerunku firmy jako wspierającej ambitne projekty i wyzwania na skalę międzynarodową.</pc></source>
+        <target><pc id="0" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Eksponowanie logo firmy na samochodzie rajdowym, odzieży zespołu oraz materiałach promocyjnych,</pc><pc id="1" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Obecność w mediach społecznościowych i relacjach z przygotowań oraz samego rajdu,</pc><pc id="2" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Materiały foto/video do wykorzystania w kampaniach marketingowych,</pc><pc id="3" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Możliwość wspólnych wydarzeń promocyjnych z udziałem samochodu rajdowego,</pc><pc id="4" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Autentyczny storytelling oparty na realnej pasji i przygodzie,</pc><pc id="5" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Zaproszenia na wybrane etapy przygotowań lub wydarzenia medialne związane z projektem,</pc><pc id="6" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Dostęp do ekskluzywnych materiałów zza kulis i osobistych relacji z zespołu,</pc><pc id="7" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Możliwość wykorzystania rajdowego auta podczas firmowych eventów lub sesji zdjęciowych,</pc><pc id="8" equivStart="START_LIST_ITEM" equivEnd="CLOSE_LIST_ITEM" type="other" dispStart="&lt;li&gt;" dispEnd="&lt;/li&gt;">Budowanie wizerunku firmy jako wspierającej ambitne projekty i wyzwania na skalę międzynarodową.</pc></target>
+      </segment>
+    </unit>
+    <unit id="6593381802876704577">
+      <segment>
+        <source>Dymitr Doktór</source>
+        <target>Dymitr Doktór</target>
+      </segment>
+    </unit>
+    <unit id="6672027613637791002">
+      <segment>
+        <source> Dla sponsorów to niepowtarzalna okazja, aby stać się częścią wyjątkowego projektu, który łączy motorsport, historię i nowoczesne podejście do promocji. Obecność Twojej marki na rajdowym Porsche startującym w Dakarze to silny przekaz – utożsamienie z wytrwałością, niezależnością i pasją do przekraczania granic. </source>
+        <target> Dla sponsorów to niepowtarzalna okazja, aby stać się częścią wyjątkowego projektu, który łączy motorsport, historię i nowoczesne podejście do promocji. Obecność Twojej marki na rajdowym Porsche startującym w Dakarze to silny przekaz – utożsamienie z wytrwałością, niezależnością i pasją do przekraczania granic. </target>
+      </segment>
+    </unit>
+    <unit id="6706684166586128957">
+      <segment>
+        <source><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">WMS Dakar Team</pc> to coś więcej niż zespół rajdowy ! — to projekt zrodzony z pasji, determinacji i marzenia o starcie w jednym z najbardziej legendarnych rajdów świata – Rajdzie Dakar. Na jego czele stoi Adam Walenda, doświadczony przedsiębiorca i pasjonat motoryzacji, który buduje klasyczne samochody rajdowe, przywracając im drugie życie i ducha dawnych edycji Dakaru. </source>
+        <target><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">WMS Dakar Team</pc> to coś więcej niż zespół rajdowy ! — to projekt zrodzony z pasji, determinacji i marzenia o starcie w jednym z najbardziej legendarnych rajdów świata – Rajdzie Dakar. Na jego czele stoi Adam Walenda, doświadczony przedsiębiorca i pasjonat motoryzacji, który buduje klasyczne samochody rajdowe, przywracając im drugie życie i ducha dawnych edycji Dakaru. </target>
+      </segment>
+    </unit>
+    <unit id="7703472683836133812">
+      <segment>
+        <source>Bartek Skwarek</source>
+        <target>Bartek Skwarek</target>
+      </segment>
+    </unit>
+    <unit id="7926991561397829941">
+      <segment>
+        <source> Rajd Dakar w kategorii Classic to nie tylko sport – to wytrzymałość, historia i emocje, które poruszają ludzi na całym świecie. Wesprzyj naszą drogę na start i przejedź z nami przez pustynie, góry i bezdroża – jako nasz partner. </source>
+        <target> Rajd Dakar w kategorii Classic to nie tylko sport – to wytrzymałość, historia i emocje, które poruszają ludzi na całym świecie. Wesprzyj naszą drogę na start i przejedź z nami przez pustynie, góry i bezdroża – jako nasz partner. </target>
+      </segment>
+    </unit>
+    <unit id="8041372287379244704">
+      <segment>
+        <source> Czekamy na Twoją wiadomość! </source>
+        <target> Czekamy na Twoją wiadomość! </target>
+      </segment>
+    </unit>
+    <unit id="8090383774631502098">
+      <segment>
+        <source><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-4-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/><pc id="1" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Dakar spirit</pc> – to pojęcie odnoszące się do ducha i charakteru rajdu Dakar, znanego z ogromnych trudności, nieprzewidywalności i ogromnego wysiłku, jaki wymaga od uczestników. To duch rywalizacji, wytrwałości, determinacji i odporności, a także poczucia wspólnoty i zaangażowania wśród zawodników i kibiców. &quot;Dakar spirit&quot; to nie tylko hasło, ale także sposób myślenia i działania. Zarówno uczestnicy rajdu, jak i jego miłośnicy, często używają tego terminu, by wyrazić podziw dla wytrwałości i pasji towarzyszących tej wyjątkowej rywalizacji. </source>
+        <target><pc id="0" equivStart="START_ITALIC_TEXT" equivEnd="CLOSE_ITALIC_TEXT" type="fmt" dispStart="&lt;i class=&quot;bi bi-4-circle-fill mx-2&quot;&gt;" dispEnd="&lt;/i&gt;"/><pc id="1" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Dakar spirit</pc> – to pojęcie odnoszące się do ducha i charakteru rajdu Dakar, znanego z ogromnych trudności, nieprzewidywalności i ogromnego wysiłku, jaki wymaga od uczestników. To duch rywalizacji, wytrwałości, determinacji i odporności, a także poczucia wspólnoty i zaangażowania wśród zawodników i kibiców. &quot;Dakar spirit&quot; to nie tylko hasło, ale także sposób myślenia i działania. Zarówno uczestnicy rajdu, jak i jego miłośnicy, często używają tego terminu, by wyrazić podziw dla wytrwałości i pasji towarzyszących tej wyjątkowej rywalizacji. </target>
+      </segment>
+    </unit>
+    <unit id="8631030119881093204">
+      <segment>
+        <source> Zachęcamy do zapoznania się z naszą <pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">ofertą sponsorską</pc>, w której przedstawiamy możliwe korzyści i formy współpracy. </source>
+        <target> Zachęcamy do zapoznania się z naszą <pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">ofertą sponsorską</pc>, w której przedstawiamy możliwe korzyści i formy współpracy. </target>
+      </segment>
+    </unit>
+    <unit id="914350699899519763">
+      <segment>
+        <source><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Wspólnie możemy więcej. Skontaktuj się z nami i zostań częścią WMS Dakar Team!</pc></source>
+        <target><pc id="0" equivStart="START_TAG_STRONG" equivEnd="CLOSE_TAG_STRONG" type="other" dispStart="&lt;strong&gt;" dispEnd="&lt;/strong&gt;">Wspólnie możemy więcej. Skontaktuj się z nami i zostań częścią WMS Dakar Team!</pc></target>
+      </segment>
+    </unit>
+    <unit id="945477238941899945">
+      <segment>
+        <source>PR / SOCIAL MEDIA</source>
+        <target>PR / SOCIAL MEDIA</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

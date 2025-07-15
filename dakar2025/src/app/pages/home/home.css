@@ -161,7 +161,6 @@ body {
   font-weight: 400;
   border-radius: 15px;
 }
-
 .card-sponsorzy::before {
   content: "";
   position: absolute;
@@ -169,12 +168,13 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('/assets/pustynia-bg_3.jpg');
+  background-image: url('/assets/pustynia.jpg');
   background-size: cover;
   background-position: center;
   opacity: 0.85; /* <-- przezroczystość tła */
   z-index: -1; /* <-- pod tekstem */
 }
+
 
 @media (max-width: 768px) {
   .event-image-wrapper {
